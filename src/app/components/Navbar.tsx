@@ -45,7 +45,7 @@ export function Navbar() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center gap-2">
-            <h1 className="text-2xl tracking-tight font-light">Tm</h1>
+            <h1 className="text-2xl tracking-tight font-light">TMM</h1>
             <div className="h-6 w-1 bg-[#FF3232]" />
           </div>
 
