@@ -30,11 +30,11 @@ export function Hero() {
       {/* Content */}
       <div className="relative z-10 text-white text-center px-6 max-w-5xl mx-auto">
         <h1 className="text-7xl md:text-8xl mb-6 tracking-tight font-light">
-          TMM
+          T&A shop
         </h1>
         <div className="h-1 w-32 bg-[#FF3232] mx-auto mb-8" />
         <p className="text-xl md:text-2xl mb-12 text-gray-200">
-          Бид 2ийн бизнес 
+          udur bolgon hagassain
         </p>
         <button 
           onClick={scrollToProducts}
